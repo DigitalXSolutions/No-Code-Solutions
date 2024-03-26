@@ -1,4 +1,5 @@
 # No Code Solutions
+No-code solutions are platforms that enable users to build, automate, and manage applications and digital experiences without the need to write code. They leverage visual programming interfaces, allowing users to drag and drop components, set up workflows, and integrate various services through graphical user interfaces.
 
 ## Mobile App Development
 - [Thunkable](https://thunkable.com) - A platform for building mobile apps with a drag-and-drop interface. Supports both iOS and Android.
